@@ -1,11 +1,11 @@
-# Jim Scott — Professional Profile & Résumé
+# Jim Scott — Professional Profile & Resume
 
 A fast, accessible, dependency-free profile site for engineering leader Jim Scott.
 
 ## Pages
 
 - `dist/index.html` — executive profile, experience, leadership philosophy, open-source work, and writing.
-- `dist/resume.html` — résumé view with dedicated print styling, usable with the browser’s **Save as PDF** feature.
+- `dist/resume.html` — resume view with dedicated print styling, usable with the browser’s **Save as PDF** feature.
 
 ## Run locally
 
@@ -17,7 +17,7 @@ Open `dist/index.html` directly in a browser or serve `dist/` using any static H
 
 ## Update content
 
-The profile and résumé are plain HTML with shared CSS in `dist/assets/styles.css`. Content is intentionally authored and reviewed rather than synthesized at runtime. Keep the two pages in sync when changing experience or skills.
+The profile and resume are plain HTML with shared CSS in `dist/assets/styles.css`. Content is intentionally authored and reviewed rather than synthesized at runtime. Keep the two pages in sync when changing experience or skills.
 
 ## Content-review checklist before public launch
 
